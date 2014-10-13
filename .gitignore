@@ -1,0 +1,11 @@
+# Vendor
+vendor/*
+
+# Composer
+composer.phar
+
+# Directories
+files/extracted/simple/*
+files/extracted/advanced/*
+!files/extracted/simple/.gitkeep
+!files/extracted/advanced/.gitkeep
